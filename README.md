@@ -82,7 +82,7 @@ Console-based app applying OOP principles like inheritance and encapsulation to 
 
 <p align="center">
   <!-- GitHub -->
-  <a href="[YOUR_GITHUB_LINK_HERE](https://github.com/Fatma-Shrief-219/fatma-shrief-219.github.io)" target="_blank">
+  <a href="[YOUR_GITHUB_LINK_HERE](https://github.com/Fatma-Shrief-219)" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" title="GitHub"/>
   </a>
   
