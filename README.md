@@ -6,78 +6,133 @@
 
 ---
 
-## 💼 About Me
+💼 About Me
 
-I'm a passionate **Data Science** learner with strong skills in *Python*, *SQL*, and *C++*, aiming to turn data into smart, real-world solutions.  
-I'm currently exploring **data analysis**, **visualization**, and automation to sharpen my technical and problem-solving abilities.
+Data Science and AI enthusiast passionate about: Machine Learning & Predictive Modeling · Deep Learning & Computer Vision · Natural Language Processing · Spatial & Geospatial Analysis · Financial Data Modeling · Data Visualization & Storytelling
 
----
+Focused on building end-to-end solutions, exploring real-world datasets, and understanding how intelligent systems learn and make decisions.
 
-## 🔧 Technical Skills
 
-| Category        | Tools & Technologies                                      |
-|-----------------|-----------------------------------------------------------|
-| *Languages*   | Python, C++, SQL                                          |
-| *Tools*       | Microsoft Excel, Visual Studio, PyCharm, GitHub ,SQL Server   |
-| *Networking*  | Cisco Packet Tracer, Basic Routing & Security             |
-| *Concepts*    | OOP, Data Structures & Algorithms, Problem Solving        |
----
+🔧 Technical Skills
 
-## 🚀 Projects
+CategoryTools & TechnologiesLanguagesPython, R, C++, SQLData SciencePandas, NumPy, SciPy, Matplotlib, Seaborn, Power BI, Excel, Scikit-learnDeep LearningTensorFlow, Keras, PyTorch, CNNs, ViT, NLP (NLTK, spaCy)Spatial AnalysisLeaflet, ggplot2, sf, geodata, Choropleth MappingWeb & ToolsReact, Node.js, Streamlit, HTML/CSS, GitHub, JupyterDatabasesMySQL, SQL Server
 
-### 🧠 CPU Scheduler Simulator – Python GUI  
-📅 Apr 2025 – May 2025  
-Built a simulator for FCFS, SJF, Priority, and Round Robin algorithms using Tkinter & Matplotlib to visualize scheduling processes.
 
-### 🎬 Cinema Ticket Booking System – SQL Server  
-📅 Mar 2025 – May 2025  
+🚀 Projects
+
+🛰️ LandSat — Satellite Land Classification using CNN-ViT Hybrid
+
+📅 2026
+
+Deep Learning & Computer Vision project for satellite image classification using the EuroSAT dataset.
+
+Explored and compared CNN, ViT, and CNN-ViT Hybrid architectures — best model achieved 90.2% accuracy.
+
+Built an interactive Streamlit web app for real-time image upload and classification.
+
+🌌 NASA Exoplanet AI Suite
+
+📅 2026
+
+Multi-model AI platform for exoplanet detection using real NASA data (Kepler, K2, TESS).
+
+Achieved up to 94.5% accuracy with interactive Streamlit & React dashboards.
+
+🕵️ Fake Job Detection — NLP
+
+📅 2026
+
+Text classification model to detect fraudulent job postings using NLP techniques.
+
+Preprocessed and vectorized job ad text; engineered features from title, description, and requirements.
+
+📈 Stochastic Financial Modeling — Egyptian Stocks
+
+📅 2026
+
+Quantitative analysis on 3 Egyptian equities (PHDC.CA, COMI.CA, ETEL.CA).
+
+Computed log returns, annualized volatility, skewness, and kurtosis using real market data via yfinance.
+
+🌍 AQI World Map & Egypt Spatial Analysis
+
+📅 2026
+
+Interactive world map visualizing AQI & PM2.5 globally using Leaflet in R.
+
+Developed a choropleth map of Egypt's 27 governorates by birth rate using ggplot2 and sf.
+
+🌐 ARVIX — Car Rental Website
+
+📅 2025
+
+Full-stack web system for browsing, booking, and managing rental cars with user authentication and admin panel.
+
+🖥️ Network Monitoring & Tracking App
+
+📅 2025
+
+GUI-based network monitoring app on Kali Linux. Monitors active ports/services, detects rogue devices, and generates security advice using Nmap, Netdiscover, and Tcpdump.
+
+🎬 Cinema Ticket Booking System — SQL Server
+
+📅 Mar 2025 – May 2025
+
 Designed a full database system for managing movies, seat reservations, and users using SQL queries and stored procedures.
 
-### 🌐 Task Scheduler – Python + Web Dashboard  
-📅 Nov 2024 – Jan 2025  
-Created a scheduling tool with a Python GUI and web interface for easier task management and visual tracking.
+🌍 Cisco Network Design
 
-### 🌍 Cisco Network Design  
-📅 Apr 2025 – May 2025  
+📅 Apr 2025 – May 2025
+
 Designed and simulated a secure, multi-branch network topology using Cisco Packet Tracer with proper routing and IP configuration.
 
-### 🍽 Restaurant Management System – C++  
-📅 Apr 2024 – May 2024  
+🍽 Restaurant Management System — C++
+
+📅 Apr 2024 – May 2024
+
 Console-based app applying OOP principles like inheritance and encapsulation to manage menu items and orders efficiently.
 
----
 
-## 📜 Certifications
+📜 Certifications
 
-- 🧠 *Problem Solving Training with C++* – Coach Academy (2025)  
-- 📊 *Excel Beginner to Advanced* – Udemy (2024)
 
----
+🧠 IBM Deep Learning with PyTorch, Keras & TensorFlow – IBM / Coursera (May 2026)
+📊 Google Advanced Data Analytics – Google / Coursera (May 2026)
+📈 Data Analysis Training – National Telecommunication Institute / NTI (2025)
+🤖 AI & Machine Learning Intensive – Sprints × Microsoft (Jul–Aug 2025)
+🧠 Problem Solving Training with C++ – Coach Academy (2025)
+📊 Excel Beginner to Advanced – Udemy (2024)
 
-## 🧑‍🏫 Activities & Involvement
 
-- 💻 *IEEE Student Branch – Technical Team*  
-  Volunteer Organizer for events like MIE & Code Challenge (2024–2025)  
-- 🎯 *Student Organizer @ Faculty of Computer Science*  
-  Supported team coordination & logistics for on-campus activities (Sep 2024)
 
----
+🧑‍🏫 Activities & Involvement
 
-## 🏆 Soft Skills
 
-- Teamwork & Collaboration  
-- Time Management  
-- Event Organization  
-- Communication (Technical & Non-Technical)
+💻 IEEE Student Branch – Technical Team
 
----
+Volunteer Organizer for events like MIE & Code Challenge (2024–2025)
+🎯 Student Organizer @ Faculty of Computer Science
 
-## 🌐 Languages
+Supported team coordination & logistics for on-campus activities (Sep 2024)
 
-🇪🇬 Arabic: Native  
+
+
+🏆 Soft Skills
+
+
+Teamwork & Collaboration
+Time Management
+Event Organization
+Communication (Technical & Non-Technical)
+
+
+
+🌐 Languages
+
+🇪🇬 Arabic: Native
+
 🇬🇧 English: Intermediate (B1)
 
----
 ## ✨ Connect With Me  
 
 <p align="center">
